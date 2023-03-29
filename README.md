@@ -1,3 +1,7 @@
+- Implemented an algorithmic trading strategy that uses machine learning to automate the trade decisions. 
+- Adjusted the input parameters to optimize the algorithm.
+- Trained a new machine learning model and compared its performance to that of a baseline model.
+
 # Machine learning trading bot results
 
  ## Baseline SVM - accuracy: .64
